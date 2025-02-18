@@ -1,0 +1,17 @@
+.add-note {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  input, textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+  button {
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    cursor: pointer;
+  }
+  
